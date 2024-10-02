@@ -66,7 +66,7 @@ document.addEventListener("DOMContentLoaded", function() {
             title: "이코이 ESG경영 ECO의 새로운 시각"
         },
         "케어레이트": {
-            imageUrl: "image3.jpg",
+            imageUrl: "images/carate.jpg",
             videoUrl: "", // 비디오 URL이 없는 경우
             text: "케어레이트 설명 내용입니다.",
             title: "케어레이트의 이야기"
