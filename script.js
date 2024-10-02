@@ -67,9 +67,28 @@ document.addEventListener("DOMContentLoaded", function() {
         },
         "케어레이트": {
             imageUrl: "images/carate.jpg",
-            videoUrl: "", // 비디오 URL이 없는 경우
-            text: "케어레이트 설명 내용입니다.",
-            title: "케어레이트의 이야기"
+            videoUrl: "images/carerate.mp4", // 비디오 URL이 없는 경우
+            text: `내 손안의 관리자 케어 시스템 케어레이트
+            
+            케어레이트는 노인 인구가 증가하는 현실에 대비하여 부족한 고급 인력 병원 간호사, 의사 등 관리자를 위해
+            24시간 환자를 케어할 수 있는 시스템이다.
+
+            해당 기기를 부착해 환자의 수면 시간부터 호흡, 심박, 낙상까지 현장에서 미쳐 발견하지 못한 것들을 알림과 함께
+            전달된다.
+            BI 네이밍부터 로고 디자인까지 어플리케이션에 필요한 기능과 기획을 진행하고 UI 화면을 구성한 내용이다.
+
+            Carerate: A Personal Care Management System in Your Hands
+
+            CareRate is a system designed to address the growing elderly population by providing 24-hour
+            patient care for managers such as doctors and nurses, where skilled personnel are in short supply.
+
+            By attaching the device, it tracks and reports crucial data such as sleep duration, breathing, heart
+            rate, and falls, alerting caregivers to issues that may have gone unnoticed in real-time.
+
+            This is a project that includes everything from naming the brand and designing the logo to
+            planning and developing the app’s features, as well as creating the UI screens.`,
+            
+            title: "케어레이트"
         }
     };
 
