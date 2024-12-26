@@ -37,6 +37,14 @@ document.addEventListener("DOMContentLoaded", function() {
 
             title: "이중적인 나를 위한 전시 이중전" // 팝업 타이틀 
         },
+        "248": {
+            imageUrl: "images/248(1).jpg",
+            videoUrl: "", // 비디오 URL이 없는 경우
+            text: `248 = 내가 정의한 '관계적 허용'
+            
+            --
+            title: "248"
+        }
         "이코이_해커톤": {
             imageUrl: "images/ecoee.jpg",
             videoUrl: "", // 비디오 URL이 없는 경우
