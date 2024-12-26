@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function() {
         },
         
         "248": {
-            imageUrl: "images/248(1).jpg",
+            imageUrl: "images/248 (1).jpg",
             videoUrl: "", // 비디오 URL이 없는 경우
             text: `내 손안의 관리자 케어 시스템 케어레이트
             
