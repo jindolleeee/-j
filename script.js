@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function() {
         },
         
         "248": {
-            imageUrl: "images/248 (1).jpg",
+            imageUrl: "images/248.jpg",
             videoUrl: "", // 비디오 URL이 없는 경우
             text: `248 = 관계적 허용
             
