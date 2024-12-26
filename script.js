@@ -37,14 +37,18 @@ document.addEventListener("DOMContentLoaded", function() {
 
             title: "이중적인 나를 위한 전시 이중전" // 팝업 타이틀 
         },
+        
         "248": {
             imageUrl: "images/248(1).jpg",
             videoUrl: "", // 비디오 URL이 없는 경우
-            text: `248 = 내가 정의한 '관계적 허용'
+            text: `내 손안의 관리자 케어 시스템 케어레이트
             
-            --
+            케어레이트는 노인 인구가 증가하는 현실에 대비하여 부족한 고급 인력 병원 간호사, 의사 등 관리자를 위해
+            24시간 환자를 케어할 수 있는 시스템이다.`,
+            
             title: "248"
-        }
+        },
+
         "이코이_해커톤": {
             imageUrl: "images/ecoee.jpg",
             videoUrl: "", // 비디오 URL이 없는 경우
