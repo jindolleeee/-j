@@ -40,8 +40,7 @@ document.addEventListener("DOMContentLoaded", function() {
         
         "248": {
             imageUrl: "images/248.jpg",
-            videoUrl: "https://jindolleeee.github.io/Type_EN/",
-                      "https://jindolleeee.github.io/Type_KO/",   // 비디오 URL이 없는 경우
+            videoUrl: "",   // 비디오 URL이 없는 경우
             text: `248 = 관계적 허용
             
             ‘24팔’은 내가 정의하고자 하는 관계적 허용의 개념을 상징한다.
