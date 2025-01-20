@@ -51,7 +51,21 @@ document.addEventListener("DOMContentLoaded", function() {
             이러한 관계는 문자와 문자, 사물과 사물이 서로 다르게 보이지만, 그 조합이 모여 하나의 전체적 의미를 구성한다.
 
             관계적 우주론에 따르면, 우주는 고정된 실체가 아닌, 오직 관계 속에서만 의미를 갖는다.
-            나와 너의 관계도 그러하다. 내가 있기에 네가 존재하고, 네가 있기에 내가 존재한다."`,
+            나와 너의 관계도 그러하다. 내가 있기에 네가 존재하고, 네가 있기에 내가 존재한다."
+            
+            248 = Relational Permission
+
+            ‘24-pal’ symbolizes the concept of relational permission that I aim to define.
+            The number ‘24’ represents the passage of time, much like 24-hour convenience stores or study cafés, and can also carry the meaning of physical relocation, as in “moving” (이사).
+            However, hidden within the pronunciation of ‘24-pal’ is the relational expression 2 * 4 = 8.
+
+            Here, ‘pal’ is not merely a number but serves an independent linguistic role as part of the human body (arm).
+            This relationship demonstrates that while letters and objects may appear distinct from one another, their combinations come together to form a holistic meaning.
+
+            According to relational cosmology, the universe is not a fixed entity but finds meaning only within relationships.
+            The same applies to the relationship between you and me: I exist because you exist, and you exist because I exist.`
+            
+            ,
             
             title: "248"
         },
